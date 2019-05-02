@@ -4,12 +4,12 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.bastisapp.mobileapp"
     versionCode = "1"
-    version   = "0.2">
+    version   = "0.3">
     <name>Pede Agora!</name>
     <description>
         Pede Agora o sistema delivery perfeito para você!
     </description>
-    <author email="weslleyth15@gmail.com" href="http://cordova.io">
+    <author email="contato.pedeagora@hospteste.ga" href="http://cordova.io">
         pedeagora.hospteste.ga
     </author>
             
